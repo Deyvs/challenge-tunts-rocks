@@ -1,0 +1,16 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Deyvison Ramos da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "excel4node": "^1.8.0"
+  }
+}
